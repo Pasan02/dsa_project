@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\function_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\function_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_heavyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_heavyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_heavyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_heavyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_heavyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_heavyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\vehicleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\vehicleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\vehicleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\vehicleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\dynamicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\dynamicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_heavyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_heavyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\vehiclepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\vehiclepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\vehicleitems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\vehicleitems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\my_desktop_app\\allusercontrol\\uc_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\allusercontrol\\uc_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|c:\\users\\user\\desktop\\dsa\\group_project\\dsa_project\\my_desktop_app\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F73924-41C8-481E-9CDB-20F7EB9D81EC}|MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj|solutionrelative:my_desktop_app\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function_db.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Function_db.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Function_db.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Function_db.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Function_db.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:59:36.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dynamicarray.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Dynamicarray.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Dynamicarray.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Dynamicarray.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Dynamicarray.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:58:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_HEAVYADD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs",
+              "ToolTip": "D:\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:53:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\DGVPrinter.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\DGVPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:29:01.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehiclepart.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehiclepart.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Vehiclepart.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehiclepart.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Vehiclepart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:03:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Node.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Node.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Node.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:29:17.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehicleitems.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.Designer.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Vehicleitems.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.Designer.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Vehicleitems.Designer.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAArwBYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:04:38.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicle.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicle.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:45:13.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\LinkedList.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\LinkedList.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\LinkedList.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwKMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:23:52.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_HEAVYADD.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYADD.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:53:36.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Form1.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Form1.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:45:34.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicleitems.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Vehicleitems.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Vehicleitems.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:45:21.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_ADD.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:11:51.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_UPDATE.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAQwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:12:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_ADD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.Designer.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.Designer.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAkwOYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:15:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Form1.Designer.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:49:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_HEAVYVIEW.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:07:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Dashboard.cs",
+              "RelativeToolTip": "MY_DESKTOP_APP\\Dashboard.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:44:51.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_HEAVYVIEW.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_HEAVYVIEW.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:26:28.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_UPDATE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_UPDATE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:12:29.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_ADD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Allusercontrol\\UC_ADD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:11:38.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Form1.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:45:29.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicleitems.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Vehicleitems.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Vehicleitems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:41:55.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MY_DESKTOP_APP\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\DSA_Project\\dsa_project\\MY_DESKTOP_APP\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:41:15.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
