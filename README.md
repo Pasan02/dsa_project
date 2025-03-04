@@ -3,7 +3,7 @@
 
 The program might not work properly without the database.
 
-Server used - SQL Server 2022 Express
-The database(databse.bak) is available in the repository. 
+The database can be restored using the database backup uploaded to the repository. Microsoft SQL Server 2022 express was used as the Server.
+By modifying the connection string the restored database can be connected to the application.
 
 
