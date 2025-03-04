@@ -75,32 +75,32 @@ namespace MY_DESKTOP_APP.Allusercontrol
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            // Get the data from the grid view
+            
             DataTable dt = (DataTable)guna2DataGridView1.DataSource;
 
-            // If there's no data to sort, exit the function
+            
             if (dt == null || dt.Rows.Count == 0)
                 return;
 
-            // Extract the names of the customers (assume name is in the second column)
+            
             List<string> names = new List<string>();
             foreach (DataRow row in dt.Rows)
             {
                 names.Add(row["name"].ToString());  // Assuming 'name' is the column name
             }
 
-            // Apply Quick Sort to the names list
+           
             QuickSort(names, 0, names.Count - 1);
 
-            // Create a new DataTable to store sorted data
-            DataTable sortedData = dt.Clone();  // Clone the structure of the original table
+           
+            DataTable sortedData = dt.Clone();  
 
-            // Add sorted rows back to the new DataTable
+           
             foreach (string name in names)
             {
                 foreach (DataRow row in dt.Rows)
                 {
-                    if (row["name"].ToString() == name)  // Check for matching names
+                    if (row["name"].ToString() == name)  
                     {
                         sortedData.ImportRow(row);
                         break;
@@ -108,11 +108,11 @@ namespace MY_DESKTOP_APP.Allusercontrol
                 }
             }
 
-            // Set the sorted data as the DataGridView's data source
+            
             guna2DataGridView1.DataSource = sortedData;
         }
 
-        // Quick Sort implementation
+        // Quick Sort-Avishka's work
         private void QuickSort(List<string> list, int low, int high)
         {
             if (low < high)
@@ -150,7 +150,7 @@ namespace MY_DESKTOP_APP.Allusercontrol
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            LoadData("SELECT * FROM people"); // Reload data in its original order
+            LoadData("SELECT * FROM people"); 
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

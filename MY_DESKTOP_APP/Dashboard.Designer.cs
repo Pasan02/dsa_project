@@ -261,7 +261,7 @@
             uC_customerview1.Name = "uC_customerview1";
             uC_customerview1.Size = new Size(976, 642);
             uC_customerview1.TabIndex = 2;
-            uC_customerview1.Load += uC_customerview1_Load;
+           
             // 
             // uC_contact1
             // 

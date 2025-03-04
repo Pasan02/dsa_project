@@ -33,7 +33,7 @@ namespace MY_DESKTOP_APP
                                 MessageBoxButtons.OK,
                                 MessageBoxIcon.Warning);
 
-                
+
 
                 txtusername.Clear();
                 txtusername.Focus();
@@ -50,7 +50,7 @@ namespace MY_DESKTOP_APP
                                MessageBoxButtons.OK,
                                MessageBoxIcon.Warning);
 
-                txtpassword.Clear(); 
+                txtpassword.Clear();
                 txtpassword.Focus();
             }
 
@@ -73,33 +73,9 @@ namespace MY_DESKTOP_APP
             txtusername.Clear();
         }
 
-        private void txtusername_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnclose_Click(object sender, EventArgs e)
         {
-            Application.Exit();
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Login_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
+            this.Hide();
 
         }
     }

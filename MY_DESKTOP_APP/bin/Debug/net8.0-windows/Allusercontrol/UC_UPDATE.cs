@@ -33,12 +33,6 @@ namespace MY_DESKTOP_APP.Allusercontrol
             txtQuantity.Text = quantity.ToString();
             txtPrice.Text = price.ToString();
         }
-
-        private void guna2TextBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void UC_UPDATE_Load(object sender, EventArgs e)
         {
             query = "select * from cars3 ";
@@ -62,36 +56,30 @@ namespace MY_DESKTOP_APP.Allusercontrol
         {
             try
             {
-                // Corrected SQL query
+                
                 query = "UPDATE cars3 SET brand='" + txtName.Text +
                         "', type='" + txtType.Text +
                         "', quantity=" + txtQuantity.Text +
                         ", price=" + txtPrice.Text +
                         " WHERE iid=" + id;
 
-                fn2.SetData(query); // Execute the update query
+                fn2.SetData(query); 
 
-                // Show success message
+               
                 MessageBox.Show("Data updated successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                // Refresh data after update
+                
                 LoadData("SELECT * FROM cars3");
             }
             catch (Exception ex)
             {
-                // Handle any errors
+                
                 MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
-        private void txtName_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            // Get the current data from the DataGridView
+            
             DataTable dt = (DataTable)guna2DataGridView1.DataSource;
             if (dt == null || dt.Rows.Count == 0)
             {
@@ -99,11 +87,12 @@ namespace MY_DESKTOP_APP.Allusercontrol
                 return;
             }
 
-            // Convert DataTable to a List of Rows for Sorting
+           
             List<DataRow> rows = dt.AsEnumerable().ToList();
 
-            // Bubble Sort Implementation (Sorting by 'price' column, assumed to be the 5th column)
+            
             int n = rows.Count;
+            //Bubble Sort Implementation-pasan's work 
             for (int i = 0; i < n - 1; i++)
             {
                 for (int j = 0; j < n - i - 1; j++)
@@ -111,7 +100,7 @@ namespace MY_DESKTOP_APP.Allusercontrol
                     decimal price1 = Convert.ToDecimal(rows[j]["price"]);
                     decimal price2 = Convert.ToDecimal(rows[j + 1]["price"]);
 
-                    if (price1 > price2) // Swap if the first price is greater than the second
+                    if (price1 > price2) 
                     {
                         DataRow temp = rows[j];
                         rows[j] = rows[j + 1];
@@ -120,14 +109,14 @@ namespace MY_DESKTOP_APP.Allusercontrol
                 }
             }
 
-            // Reconstruct the sorted DataTable
-            DataTable sortedTable = dt.Clone(); // Clone the structure
+            
+            DataTable sortedTable = dt.Clone(); 
             foreach (DataRow row in rows)
             {
-                sortedTable.ImportRow(row); // Add sorted rows back to the DataTable
+                sortedTable.ImportRow(row); 
             }
 
-            // Update the DataGridView with the sorted data
+            
             guna2DataGridView1.DataSource = sortedTable;
         }
 
@@ -137,12 +126,6 @@ namespace MY_DESKTOP_APP.Allusercontrol
             LoadData(query);
 
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             Dashboard dashboard2 = new Dashboard();

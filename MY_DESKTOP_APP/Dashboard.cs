@@ -29,6 +29,7 @@ namespace MY_DESKTOP_APP
                 btnUpdate.Hide();
                 btnContact.Hide();
                 btnviewcustomer.Hide();
+                
 
 
             }
@@ -60,9 +61,9 @@ namespace MY_DESKTOP_APP
         {
             Login L1 = new Login();
             this.Hide();
-            this.Close();// Hide the Dashboard first
-            L1.Show();  // Show the Login form
-             // Close the Dashboard properly
+            this.Close();
+            L1.Show();  
+             
 
 
         }
@@ -110,15 +111,6 @@ namespace MY_DESKTOP_APP
             uC_customerview1.BringToFront();
         }
 
-        private void uC_customerview1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-           
-
-        }
+        
     }
 }

@@ -171,7 +171,7 @@
             label4.Size = new Size(52, 25);
             label4.TabIndex = 6;
             label4.Text = "Total";
-            label4.Click += label4_Click;
+           
             // 
             // label5
             // 
@@ -215,7 +215,7 @@
             txtItemName.ShadowDecoration.CustomizableEdges = customizableEdges14;
             txtItemName.Size = new Size(201, 34);
             txtItemName.TabIndex = 9;
-            txtItemName.TextChanged += guna2TextBox2_TextChanged;
+            
             // 
             // txtPrice
             // 
@@ -262,7 +262,7 @@
             txtTotal.ShadowDecoration.CustomizableEdges = customizableEdges10;
             txtTotal.Size = new Size(201, 34);
             txtTotal.TabIndex = 11;
-            txtTotal.TextChanged += txtTotal_TextChanged;
+           
             // 
             // txtQuantity
             // 
@@ -352,7 +352,7 @@
             guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255);
             guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94);
             guna2DataGridView1.CellClick += guna2DataGridView1_CellClick;
-            guna2DataGridView1.CellContentClick += guna2DataGridView1_CellContentClick;
+            
             // 
             // Column1
             // 

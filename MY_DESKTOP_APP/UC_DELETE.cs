@@ -66,6 +66,8 @@ namespace MY_DESKTOP_APP
             }
 
             List<DataRow> rows = dt.AsEnumerable().ToList();
+            //Selection sort-Upeka's work
+
             int n = rows.Count;
             for (int i = 0; i < n - 1; i++)
             {
@@ -106,6 +108,7 @@ namespace MY_DESKTOP_APP
 
             List<DataRow> rows = dt.AsEnumerable().ToList();
             int n = rows.Count;
+            //Insertion sort-Pasan's work
             for (int i = 1; i < n; i++)
             {
                 DataRow keyRow = rows[i];
@@ -129,7 +132,7 @@ namespace MY_DESKTOP_APP
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            LoadData(); // Reload data from the database to restore original order
+            LoadData(); 
         }
     }
 }

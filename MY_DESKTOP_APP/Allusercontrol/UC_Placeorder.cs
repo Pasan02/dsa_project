@@ -15,18 +15,6 @@ namespace MY_DESKTOP_APP.Allusercontrol
             InitializeComponent();
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void guna2TextBox2_TextChanged(object sender, EventArgs e)
-        {
-        }
-
-        private void guna2DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-        }
-
         private void ComboType_SelectedIndexChanged(object sender, EventArgs e)
         {
             String category = ComboType.Text;
@@ -76,13 +64,13 @@ namespace MY_DESKTOP_APP.Allusercontrol
         {
             try
             {
-                // Ensure both values are parsed correctly
+               
                 decimal price = decimal.Parse(txtPrice.Text);
-                decimal quantity = txtQuantity.Value; // Directly using the NumericUpDown control's value
+                decimal quantity = txtQuantity.Value; 
 
                 // Calculate the total price
                 decimal total = price * quantity;
-                txtTotal.Text = total.ToString("F2"); // Format with two decimal places
+                txtTotal.Text = total.ToString("F2"); 
             }
             catch (FormatException)
             {
@@ -94,12 +82,12 @@ namespace MY_DESKTOP_APP.Allusercontrol
             }
         }
 
-        private decimal total = 0m; // Use decimal for the total amount
+        private decimal total = 0m; 
         private void btnAddToCart_Click(object sender, EventArgs e)
         {
             try
             {
-                // Add row to the DataGridView
+                
                 if (txtTotal.Text != "0" && txtTotal.Text != "")
                 {
                     int n = guna2DataGridView1.Rows.Add();
@@ -108,13 +96,13 @@ namespace MY_DESKTOP_APP.Allusercontrol
                     guna2DataGridView1.Rows[n].Cells[2].Value = txtPrice.Text;
                     guna2DataGridView1.Rows[n].Cells[3].Value = txtTotal.Text;
 
-                    // Add the total price of the current item to the overall total
+                    
                     decimal itemTotal = decimal.Parse(txtTotal.Text);
                     total += itemTotal;
 
-                    // Update the total amount label
+                    
                     labelTotalAmount.Text = "RS: " + total.ToString("F2");
-                    // Format with two decimal places
+                   
                 }
 
                 else
@@ -148,20 +136,20 @@ namespace MY_DESKTOP_APP.Allusercontrol
         {
             try
             {
-                // Get the amount from the selected row
+                
                 decimal amountToRemove = decimal.Parse(guna2DataGridView1.SelectedRows[0].Cells[3].Value.ToString());
 
-                // Remove the selected row
+             
                 guna2DataGridView1.Rows.RemoveAt(this.guna2DataGridView1.SelectedRows[0].Index);
 
-                // Recalculate the total by summing up all the items
+                
                 total = 0;
                 foreach (DataGridViewRow row in guna2DataGridView1.Rows)
                 {
-                    total += Convert.ToDecimal(row.Cells[3].Value); // Add the total price from each row
+                    total += Convert.ToDecimal(row.Cells[3].Value); 
                 }
 
-                // Update the total amount label
+              
                 labelTotalAmount.Text = "RS: " + total.ToString("F2");
             }
             catch (Exception ex)
@@ -189,10 +177,7 @@ namespace MY_DESKTOP_APP.Allusercontrol
 
         }
 
-        private void txtTotal_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {

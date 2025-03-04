@@ -146,7 +146,7 @@
             dataview.ThemeStyle.RowsStyle.Height = 29;
             dataview.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255);
             dataview.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataview.CellContentClick += dataview_CellContentClick;
+            
             // 
             // guna2Elipse1
             // 

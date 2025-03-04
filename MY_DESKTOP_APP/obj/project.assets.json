@@ -312,11 +312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\dsa_project\\MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj",
       "projectName": "MY_DESKTOP_APP",
-      "projectPath": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\dsa_project\\MY_DESKTOP_APP\\MY_DESKTOP_APP.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\DSA\\group_project\\dsa_project\\MY_DESKTOP_APP\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\dsa_project\\MY_DESKTOP_APP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

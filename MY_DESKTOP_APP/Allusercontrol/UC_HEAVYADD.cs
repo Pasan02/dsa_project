@@ -15,13 +15,13 @@ namespace MY_DESKTOP_APP.Allusercontrol
         {
             try
             {
-                // Get data from text boxes
+               
                 string name = guna2TextBox1.Text;
                 int quantity = int.Parse(txtQuantity.Text);
                 double price = double.Parse(txtprice.Text);
                 int year = int.Parse(txtyear.Text);
 
-                // Create a new Vehicle object
+                
                 Vehicle vehicle1 = new Vehicle(name, quantity, year, price);
 
                 // Use the ListManager to add the vehicle
@@ -47,15 +47,14 @@ namespace MY_DESKTOP_APP.Allusercontrol
 
         private void btnback_Click(object sender, EventArgs e)
         {
-            Form parentForm = this.FindForm(); // Get the parent form that contains UC_HEAVYADD
+            Form parentForm = this.FindForm(); 
 
             if (parentForm != null)
             {
-                parentForm.Close(); // Close the form containing this UserControl
+                parentForm.Close(); 
             }
 
-            // Form1 will automatically be shown again because we set up the FormClosed event handler
-            // in the guna2Button2_Click method in Form1.cs
+            
         }
     }
 }

@@ -85,7 +85,7 @@
             label1.Size = new Size(220, 41);
             label1.TabIndex = 0;
             label1.Text = "Update Items";
-            label1.Click += label1_Click;
+            
             // 
             // label3
             // 
@@ -238,7 +238,7 @@
             txtName.Size = new Size(329, 31);
             txtName.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             txtName.TabIndex = 8;
-            txtName.TextChanged += txtName_TextChanged;
+            
             // 
             // label4
             // 
@@ -275,7 +275,7 @@
             txtPrice.Size = new Size(329, 31);
             txtPrice.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             txtPrice.TabIndex = 10;
-            txtPrice.TextChanged += guna2TextBox4_TextChanged;
+            
             // 
             // label5
             // 
